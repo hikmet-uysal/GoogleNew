@@ -1,0 +1,48 @@
+.ol-class{
+    float: left;
+    text-decoration:none;
+
+}
+.ul-class{
+    float: right;
+    margin-right: 50px;
+    text-decoration: none;
+}
+.img-class{
+    padding-top: 130px;
+    width: 280px;
+    padding-left: 380px;
+
+
+}
+.container{
+width: 100%;
+}
+.searchbar{
+    width: 500px;
+    max-width: 700px ;
+    display: flex;
+    align-items: center;
+    margin-left: 41%;
+    padding: 10px;
+}
+.alt-ol-class{
+    float: left;
+    margin-right: 50px;
+    text-decoration: none;
+    margin-top: 50%;
+
+}
+.alt-ul-class{
+    float: right;
+    margin-right: 50px;
+    text-decoration: none;
+    margin-top: 25%;
+}
+
+.altclass{
+    background-size: 500px;
+    height: 50px;
+    background-color: rgb(240, 238, 238);
+    margin-top: 25%;
+}
